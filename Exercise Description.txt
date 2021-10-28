@@ -1,0 +1,3 @@
+After running all the pages, the program goes into a loop when the last 'login page' is run. 'mysimplemodule' is used as module.
+
+Note : For admin login ID: '999' , name: 'admin' , surname: 'admin', password: '1'.
